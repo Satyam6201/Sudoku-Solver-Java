@@ -43,7 +43,7 @@ Sudoku-Solver-Java/
 ├── README.md
 
 ```
-
+```
 +-------+-------+-------+
 | 3 . . | . . . | . 5 . |
 | . . . | 5 . . | 7 . . |
@@ -57,26 +57,24 @@ Sudoku-Solver-Java/
 | 1 . . | 9 4 8 | 5 6 . |
 | 9 . 5 | . . 6 | . . 1 |
 +-------+-------+-------+
-
+```
 /*
+* ---------------------
  * 🧩 Technologies Used
- * ---------------------
  * ✅ Java (JDK 8+)
  * ✅ Console I/O
  * ✅ 2D Arrays
  * ✅ Backtracking & Recursion
  * ✅ File Handling
- *
+ 
  * 📌 To-Do (Optional Improvements)
- * --------------------------------
+   
  * 🖼️ Swing-based GUI (Graphical Interface)
  * 📈 Difficulty-level algorithm improvements
  * 🌐 Multiplayer or network-based Sudoku
  * 📱 Android version using Java
  *
  * 👨‍💻 Author
- * ------------
  * Name: Satyam Kumar Mishra
  * LinkedIn: https://www.linkedin.com/in/satyam-kumar-mishra-9bb980291/
  * GitHub: https://github.com/Satyam6201
- */
