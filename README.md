@@ -59,21 +59,23 @@ Sudoku-Solver-Java/
 +-------+-------+-------+
 ```
 /*
-* ---------------------
+ ---------------------
  * 🧩 Technologies Used
+   
  * ✅ Java (JDK 8+)
  * ✅ Console I/O
  * ✅ 2D Arrays
  * ✅ Backtracking & Recursion
  * ✅ File Handling
- 
+   
+ ---
  * 📌 To-Do (Optional Improvements)
    
  * 🖼️ Swing-based GUI (Graphical Interface)
  * 📈 Difficulty-level algorithm improvements
  * 🌐 Multiplayer or network-based Sudoku
  * 📱 Android version using Java
- *
+ 
  * 👨‍💻 Author
  * Name: Satyam Kumar Mishra
  * LinkedIn: https://www.linkedin.com/in/satyam-kumar-mishra-9bb980291/
