@@ -75,7 +75,7 @@ Sudoku-Solver-Java/
  * 🌐 Multiplayer or network-based Sudoku
  * 📱 Android version using Java
  ---
- * 👨‍💻 Author
+👨‍💻 Author
  * Name: Satyam Kumar Mishra
  * LinkedIn: https://www.linkedin.com/in/satyam-kumar-mishra-9bb980291/
  * GitHub: https://github.com/Satyam6201
