@@ -59,7 +59,7 @@ Sudoku-Solver-Java/
 +-------+-------+-------+
 ```
  ---------------------
- * 🧩 Technologies Used
+🧩 Technologies Used
    
  * ✅ Java (JDK 8+)
  * ✅ Console I/O
@@ -68,7 +68,7 @@ Sudoku-Solver-Java/
  * ✅ File Handling
    
  ---
- * 📌 To-Do (Optional Improvements)
+📌 To-Do (Optional Improvements)
    
  * 🖼️ Swing-based GUI (Graphical Interface)
  * 📈 Difficulty-level algorithm improvements
