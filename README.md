@@ -1,32 +1,32 @@
 # 🧩 Sudoku Solver & Puzzle Generator (Java Console App)
 
-This is a fully functional **Sudoku game** written in Java. It includes a puzzle generator, solver using backtracking, difficulty levels, hint system, lives, timer, and the ability to save/load your progress — all from the console!
+This is a fully functional **Sudoku game** written in Java. It includes a **random puzzle generator**, a **solver using backtracking**, **difficulty levels**, **smart hint system**, **lives system**, **move counter**, **timer**, and the ability to **save/load your progress** — all from the **command line interface**.
+
+Built as a modular, object-oriented Java project, this console-based app showcases problem-solving, algorithmic logic, and clean code structure.
 
 ---
 
 ## 🚀 Features
 
-- 🔢 Puzzle Generator with difficulty levels (Easy, Medium, Hard)
-- 🧠 Sudoku Solver using recursive backtracking
-- 🎯 Hint system with smart suggestion
-- 💾 Save and Load your game
-- ❤️ Lives system (max 3 wrong attempts)
-- 🧮 Move counter and timer
-- ✅ Input validation for fixed cells
-- 📊 Board validity and unique solution detection
+- 🔢 **Puzzle Generator** with difficulty levels: Easy (40 clues), Medium (30), Hard (22)
+- 🧠 **Recursive Backtracking Solver** to solve any valid board
+- 💡 **Hint System** that auto-solves a copy and reveals one correct cell
+- 💾 **Save & Load Game** progress to/from a `.txt` file
+- ❤️ **Lives System** (Max 3 wrong attempts)
+- ⏱️ **Timer** to measure how long you take to solve the puzzle
+- 🧮 **Move Counter** for tracking total inputs
+- ✅ **Input Validation**: Prevent overwriting fixed cells or invalid moves
+- 📊 **Board Validity Check** and **Unique Solution Detector**
+- 🔁 Cleanly restartable from console after exit or completion
 
 ---
 
 ## 🎮 How to Play
 
-1. Run the program in terminal
-2. Select a difficulty level
-3. Choose actions:
-   - Fill a cell
-   - Get a hint
-   - Solve the puzzle
-   - Save/Load your progress
-   - Exit anytime
+1. 🖥️ Run the app in the terminal using:
+   ```bash
+   javac src/*.java
+   java -cp src Main
 
 ---
 
