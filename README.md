@@ -87,12 +87,21 @@ Sudoku-Solver-Java/
 
    
  ---
-📌 To-Do (Optional Improvements)
-   
- * 🖼️ Swing-based GUI (Graphical Interface)
- * 📈 Difficulty-level algorithm improvements
- * 🌐 Multiplayer or network-based Sudoku
- * 📱 Android version using Java
+
+📌 To-Do / Future Enhancements
+ 🖼️ Swing GUI version for visual gameplay
+
+ 📈 Advanced difficulty tuning using puzzle entropy
+
+ 🌐 Multiplayer mode with scoreboard
+
+ 📱 Android version using Java & XML
+
+ 🧠 AI-based hint system using heuristics (e.g., naked pairs)
+
+ ☁️ Save/load to cloud storage with login
+
+
  ---
 👨‍💻 Author
  * Name: Satyam Kumar Mishra
