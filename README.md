@@ -58,7 +58,6 @@ Sudoku-Solver-Java/
 | 9 . 5 | . . 6 | . . 1 |
 +-------+-------+-------+
 ```
-/*
  ---------------------
  * 🧩 Technologies Used
    
@@ -75,7 +74,7 @@ Sudoku-Solver-Java/
  * 📈 Difficulty-level algorithm improvements
  * 🌐 Multiplayer or network-based Sudoku
  * 📱 Android version using Java
- 
+ ---
  * 👨‍💻 Author
  * Name: Satyam Kumar Mishra
  * LinkedIn: https://www.linkedin.com/in/satyam-kumar-mishra-9bb980291/
