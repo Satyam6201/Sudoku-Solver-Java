@@ -24,24 +24,25 @@ Built as a modular, object-oriented Java project, this console-based app showcas
 ## 🎮 How to Play
 
 1. 🖥️ Run the app in the terminal using:
-   ```bash
+   ```
    javac src/*.java
    java -cp src Main
    🎯 Select a difficulty level (Easy, Medium, Hard)
 
-🕹️ Use the menu options:
+   🕹️ Use the menu options:
 
-1: Fill a cell (row, column, number)
+   1: Fill a cell (row, column, number)
 
-2: Get a smart hint
+   2: Get a smart hint
 
-3: Auto-solve the puzzle
+   3: Auto-solve the puzzle
 
-4: Save game
+   4: Save game
 
-5: Load a saved game
+   5: Load a saved game
 
-6: Exit
+   6: Exit
+  
 ```
 ✔️ Complete the board to win, or use the solver to finish instantly.
 ---
