@@ -44,23 +44,22 @@ Built as a modular, object-oriented Java project, this console-based app showcas
    6: Exit
   
 ```
-✔️ Complete the board to win, or use the solver to finish instantly.
 ---
 
-## 📂 Folder Structure
-
 ```
+## 📂 Folder Structure
 
 Sudoku-Solver-Java/
 ├── src/
-│ ├── Main.java // Entry point
-│ ├── SudokuGame.java // Game logic & menu
-│ ├── SudokuSolver.java // Backtracking solver
-│ ├── SudokuGenerator.java // Puzzle generator
-├── README.md
+│   ├── Main.java              // Entry point
+│   ├── SudokuGame.java        // Game engine, menu, logic
+│   ├── SudokuSolver.java      // Recursive solver & validation
+│   ├── SudokuGenerator.java   // Puzzle generator with unique solution check
+├── README.md                  // This file
 
 ```
 ```
+
 +-------+-------+-------+
 | 3 . . | . . . | . 5 . |
 | . . . | 5 . . | 7 . . |
@@ -74,6 +73,7 @@ Sudoku-Solver-Java/
 | 1 . . | 9 4 8 | 5 6 . |
 | 9 . 5 | . . 6 | . . 1 |
 +-------+-------+-------+
+
 ```
  ---------------------
 🧩 Technologies Used
