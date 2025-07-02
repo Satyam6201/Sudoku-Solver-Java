@@ -76,12 +76,15 @@ Sudoku-Solver-Java/
 ```
  ---------------------
 🧩 Technologies Used
-   
- * ✅ Java (JDK 8+)
- * ✅ Console I/O
- * ✅ 2D Arrays
- * ✅ Backtracking & Recursion
- * ✅ File Handling
+| Concept/Technology          | Purpose                          |
+| --------------------------- | -------------------------------- |
+| ☕ Java (JDK 8+)             | Core language                    |
+| 🧮 2D Arrays                | Board representation             |
+| 🔁 Recursion & Backtracking | Puzzle solving logic             |
+| 📄 File I/O                 | Save/load game state             |
+| 🧠 Logical validation       | Ensure Sudoku rules are followed |
+| 🕹️ Console UI              | Text-based interaction           |
+
    
  ---
 📌 To-Do (Optional Improvements)
