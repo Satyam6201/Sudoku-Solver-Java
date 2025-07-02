@@ -50,13 +50,13 @@ Built as a modular, object-oriented Java project, this console-based app showcas
 ## 📂 Folder Structure
 
 ```
+
 Sudoku-Solver-Java/
 ├── src/
 │ ├── Main.java // Entry point
 │ ├── SudokuGame.java // Game logic & menu
 │ ├── SudokuSolver.java // Backtracking solver
 │ ├── SudokuGenerator.java // Puzzle generator
-├── sudoku_save.txt // Generated file when game is saved
 ├── README.md
 
 ```
