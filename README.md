@@ -43,7 +43,6 @@ Built as a modular, object-oriented Java project, this console-based app showcas
 
    6: Exit
   
-```
 ---
 
 ```
