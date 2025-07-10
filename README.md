@@ -85,7 +85,6 @@ Sudoku-Solver-Java/
 | 🧠 Logical validation       | Ensure Sudoku rules are followed |
 | 🕹️ Console UI              | Text-based interaction           |
 
-   
  ---
 
 📌 To-Do / Future Enhancements
