@@ -42,6 +42,7 @@ Built as a modular, object-oriented Java project, this console-based app showcas
    5: Load a saved game
 
    6: Exit
+   ```
   
 ---
 
