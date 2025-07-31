@@ -100,8 +100,8 @@ Sudoku-Solver-Java/
 
  ☁️ Save/load to cloud storage with login
 
-
  ---
+ 
 👨‍💻 Author
  * Name: Satyam Kumar Mishra
  * LinkedIn: https://www.linkedin.com/in/satyam-kumar-mishra-9bb980291/
