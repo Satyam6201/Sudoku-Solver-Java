@@ -30,18 +30,13 @@ Built as a modular, object-oriented Java project, this console-based app showcas
    🎯 Select a difficulty level (Easy, Medium, Hard)
 
    🕹️ Use the menu options:
-
    1: Fill a cell (row, column, number)
-
    2: Get a smart hint
-
    3: Auto-solve the puzzle
-
    4: Save game
-
    5: Load a saved game
-
    6: Exit
+   
    ```
   
 ---
