@@ -100,5 +100,5 @@ Sudoku-Solver-Java/
  
 👨‍💻 Author
  * Name: Satyam Kumar Mishra
- * LinkedIn: https://www.linkedin.com/in/satyam-kumar-mishra-9bb980291/
+ * LinkedIn: https://www.linkedin.com/in/satyam-kumar-mishra-dev
  * GitHub: https://github.com/Satyam6201
